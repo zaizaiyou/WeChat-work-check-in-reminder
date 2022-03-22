@@ -14,4 +14,6 @@
 
 保存后然后分别选择好上下班打卡时间，然后分别添加定时，启动定时。
 
-本软件采用的是pushplus进行推送，网址http://www.pushplus.plus/，然后复制token即可
+本软件采用的是pushplus进行推送，网址http://www.pushplus.plus/
+
+然后复制token即可
